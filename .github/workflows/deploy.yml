@@ -18,7 +18,7 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: Build the Site
+      - name: Build Hugo Site
         run: hugo --minify
 
       - name: Deploy to GitHub Pages
@@ -26,4 +26,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: main
 
