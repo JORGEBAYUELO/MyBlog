@@ -6,7 +6,6 @@ tags:
   - devops
   - linux
   - projects
-categories: blog
 slug: my-terraform-project
 ---
 ## Introduction
