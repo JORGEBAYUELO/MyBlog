@@ -91,3 +91,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Optimize Images
+        uses: calibre/image-actions@main
+        with:
+          compress: true
+          jpeg: true
+          png: true
+          webp: true

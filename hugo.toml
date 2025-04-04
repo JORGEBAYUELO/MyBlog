@@ -24,7 +24,7 @@ pagination.pagerSize = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -59,7 +59,7 @@ pagination.pagerSize = 5
   # This value can be customized according to Hugo documentation:
   # https://gohugo.io/functions/time/format/
   # Default value (no changes needed):
-  # dateFormat = "2006-01-02"
+  dateFormat = "01-02-2006"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "My Blog"
+    title = "Jorge's Tech Journal"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -92,7 +92,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Jorge's Tech Journal"
         logoHomeLink = "/"
 
       [languages.en.menu]
@@ -108,3 +108,10 @@ pagination.pagerSize = 5
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
+
+# Custom parameters for SEO and social sharing
+[params.opengraph]
+    firstName = "Jorge"
+    lastName = "Bayuelo"
+    gender = "male"
+    username = "jorgebayuelo"
