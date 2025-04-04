@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
+                "file": "Terraform Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How I Built a Fully Automated AWS Infrastructure Using Terraform"
+              "title": "Terraform Project"
             }
           }
         ]
@@ -169,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85b540bf209a2a8f",
+  "active": "dab2ed241e818bfd",
   "lastOpenFiles": [
-    "testimage.png",
     "How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
+    "Terraform Project.md",
+    "testimage.png",
     "Pasted.md",
     "Pasted image 20250404123631.png",
     "Untitled"
