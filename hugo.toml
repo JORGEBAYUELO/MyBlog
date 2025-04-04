@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://jorgebayuelo.blog/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "My Blog"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
