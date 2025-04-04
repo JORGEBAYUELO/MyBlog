@@ -111,6 +111,7 @@ pagination.pagerSize = 5
 
 # Custom parameters for SEO and social sharing
 [params.opengraph]
+    enable = true
     firstName = "Jorge"
     lastName = "Bayuelo"
     gender = "male"
