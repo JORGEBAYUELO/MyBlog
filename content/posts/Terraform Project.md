@@ -4,7 +4,6 @@ date: 2025-04-04
 draft: false
 cover: /terraform_cover.jpg
 ---
-![Terraform Cover](/terraform_cover.jpg)
 ## Introduction
 Building real world projects is one of the best ways to learn, and that’s exactly what I wanted to do with this one. This project was my way of testing everything I’ve been learning about **DevOps, AWS, and Infrastructure as Code** in a practical and hands-on way.
 
