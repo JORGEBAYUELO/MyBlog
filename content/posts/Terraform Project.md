@@ -16,5 +16,24 @@ This project helped me:
 - Practice writing and organizing Terraform code.
 - Understand AWS services and how they work together.
 - Improve my ability to troubleshoot real-world issues.
+## What You'll Learn From This Blog:
+By the end of this post, you’ll have a clear idea of:
+- How to set up a simple but complete AWS infrastructure using Terraform.
+- The challenges I faced and how I debugged them.
+- Best practices I followed and some that I learned the hard way.
+## Project Breakdown: How I Built It
+### Designing the Architecture
+I started by outlining what I wanted the infrastructure to include:
+- A single **EC2 instance** running Nginx
+- A **Security Group** allowing inbound SSH and HTTP access
+- Remote **Terraform state** stored in **S3** with a **DynamoDB** table to manage state locks
+- All resources defined and deployed using **Terraform**
+This setup mimics real-world cloud architecture in a simplified way, this is enough to learn without getting overwhelmed.
+### Why I Chose Terraform
+Terraform is one of the most popular Infrastructure as Code tools in the industry, and it integrates really well with AWS. I chose it because:
+- It’s **cloud-agnostic**
+- It’s **declarative**, meaning you describe what you want, not how to do it
+- It has **great community support**
+- And frankly, it’s everywhere in job postings 😅
 ## Conclusion
 This section is to express our final thoughts and takeaways
