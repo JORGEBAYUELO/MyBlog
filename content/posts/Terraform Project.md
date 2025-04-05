@@ -2,7 +2,7 @@
 title: How I Built a Fully Automated AWS Infrastructure Using Terraform
 date: 2025-04-04
 draft: false
-cover: /static/terraform_cover.jpg
+cover: /terraform_cover.jpg
 ---
 ![Terraform Cover](/terraform_cover.jpg)
 ## Introduction
