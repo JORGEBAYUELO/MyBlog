@@ -97,4 +97,4 @@ No project is complete without a few hiccups. Here are a few bumps I hit along t
 
 Hope this breakdown gives you ideas for your own Terraform practice or AWS exploration. If you’re a career changer like me, just keep building and stay consistent, it clicks faster than you think.
 
-If you’d like to see the entire code process feel free to check it on my GitHub Page  https://github.com/JORGEBAYUELO/Automated-AWS-Terraform-Infrastructure! 👨‍💻
+If you’d like to see the entire code process feel free to check it on my GitHub Page ->  https://github.com/JORGEBAYUELO/Automated-AWS-Terraform-Infrastructure! 👨‍💻
