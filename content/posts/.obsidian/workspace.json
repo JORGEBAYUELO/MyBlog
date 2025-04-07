@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform Project.md",
+                "file": "How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform Project"
+              "title": "How I Built a Fully Automated AWS Infrastructure Using Terraform"
+            }
+          },
+          {
+            "id": "3fc98093d93ac77f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dab2ed241e818bfd",
+  "active": "3fc98093d93ac77f",
   "lastOpenFiles": [
     "How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
-    "Terraform Project.md",
+    "How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
     "testimage.png",
     "Pasted.md",
     "Pasted image 20250404123631.png",
