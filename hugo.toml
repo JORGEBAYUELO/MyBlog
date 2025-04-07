@@ -77,7 +77,7 @@ pagination.pagerSize = 5
     title = "Jorge's Tech Journal"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Welcome to my Tech Journal!"
       owner = ""
       keywords = ""
       copyright = ""
