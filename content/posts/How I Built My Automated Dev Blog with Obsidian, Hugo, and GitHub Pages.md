@@ -19,6 +19,7 @@ So I made several changes:
 - I customized the folder structure to better match my writing habits.
 - I set up an **automated CI/CD workflow** with GitHub Actions.
 - I also tailored the deployment and theming to better reflect _me_.
+
 Using [Obsidian](https://obsidian.md/) was a no-brainer since I already use it for notes. It made sense to extend it into my blog writing tool.
 
 For the static site generator, I picked [Hugo](https://gohugo.io/) because it’s super fast and very Git-friendly. Lastly, hosting it on **GitHub Pages** gave me free hosting with my own domain: [jorgebayuelo.blog](https://jorgebayuelo.blog).
@@ -28,6 +29,7 @@ Here’s what it looks like:
 - Once I’m ready, I push the changes to GitHub.
 - A GitHub Actions workflow kicks in, builds the Hugo site, and deploys it to the `gh-pages` branch.
 - That branch is linked to GitHub Pages and automatically updates the live site.
+
 So I get a **fully automated blog**, with no manual deployment steps, just write, commit, and push. 💨
 ### Styling the Blog
 I chose the **Terminal** theme because of its simplicity and retro vibe. But I wanted to customize the colors using the beautiful [Catppuccin](https://github.com/catppuccin) palette.
