@@ -40,11 +40,11 @@ At one point, GitHub Actions kept failing to connect to the EC2 instance. The er
 ### SSH Access from GitHub Actions
 By default, my EC2 security group only allowed SSH from my IP. But GitHub Actions runners use dynamic IPs. For testing, I temporarily opened port 22 to `0.0.0.0/0`, but I learned that **for production**, I'd want to [fetch the GitHub Actions IPs](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions#using-githubs-ip-addresses) and restrict access accordingly.
 ### Docker Permissions
-Another tricky one—`docker ps` failed at first. EC2's default user didn't have permission to run Docker without `sudo`. The fix? Simply prefix Docker commands in the script with `sudo`.
+Another tricky one `docker ps` failed at first. EC2's default user didn't have permission to run Docker without `sudo`. The fix? Simply prefix Docker commands in the script with `sudo`.
 ### Monitoring with CloudWatch Agent
 Installing and configuring the CloudWatch Agent gave me visibility into CPU, memory, and disk usage on the EC2 instance. It was a great intro to system monitoring on AWS.
 ## What I Learned
-This project brought a lot of moving pieces together, and each of them deepened my understanding of DevOps in a real-world context:
+This project brought a lot of moving pieces together, and each of them deepened my understanding of DevOps in a real world context:
 - Writing shell scripts that run remotely
 - Debugging SSH and permission issues
 - Managing Docker images in CI/CD
