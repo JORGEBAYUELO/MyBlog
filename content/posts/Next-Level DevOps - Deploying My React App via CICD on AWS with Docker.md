@@ -56,6 +56,6 @@ More importantly, it taught me the value of **automation**. Once the pipeline wa
 ## Final Thoughts
 If you’re breaking into DevOps (like I am), don’t just watch tutorials, **build something**. Use a real app (even if it’s a passion project like my coffee app), and deploy it like you’re going to production. Every problem you hit will be a chance to learn something new.
 
-And if you're looking to build something similar, stay tuned. I'll also publish a **step-by-step guide in my GitHub repository** with every command and configuration I used. Feel free to check it here ->  
+And if you're looking to build something similar, stay tuned. I'll also publish a **step-by-step guide in my GitHub repository** with every command and configuration I used. Feel free to check it here -> https://github.com/JORGEBAYUELO/CappuccinoCupApp
 
 Until next time, happy automating! 🚀
