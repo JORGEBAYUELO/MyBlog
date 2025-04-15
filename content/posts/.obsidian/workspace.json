@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next-Level DevOps - Deploying My React App via CICD on AWS with Docker.md",
+                "file": "From Curiosity to Confidence - How I Found My Way into Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next-Level DevOps - Deploying My React App via CICD on AWS with Docker"
+              "title": "From Curiosity to Confidence - How I Found My Way into Linux"
             }
           }
         ],
@@ -184,10 +184,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3fc98093d93ac77f",
+  "active": "85b540bf209a2a8f",
   "lastOpenFiles": [
-    "How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
     "Next-Level DevOps - Deploying My React App via CICD on AWS with Docker.md",
+    "From Curiosity to Confidence - How I Found My Way into Linux.md",
+    "How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
     "How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
     "testimage.png",
     "Pasted.md",
