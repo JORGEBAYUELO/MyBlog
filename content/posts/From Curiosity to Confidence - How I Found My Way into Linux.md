@@ -1,5 +1,5 @@
 ---
-title: My First Project
+title: "From Curiosity to Confidence: How I Found My Way into Linux"
 date: 2025-04-15
 draft: false
 cover: /linux_cover.jpg
