@@ -1,6 +1,6 @@
 ---
 title: My First Project
-date: 2024-04-02
+date: 2025-04-15
 draft: false
 cover: /linux_cover.jpg
 ---
