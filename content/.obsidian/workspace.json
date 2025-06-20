@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bddd6a67d92eb9f1",
@@ -170,9 +171,9 @@
   },
   "active": "43624bbf6d4e019d",
   "lastOpenFiles": [
-    "posts/How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
     "posts/How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
     "posts/From React to Resilience - How I Deployed My App on AWS Using CICD, Terraform, and WAF.md",
+    "posts/How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
     "posts/Next-Level DevOps - Deploying My React App via CICD on AWS with Docker.md",
     "posts/From Curiosity to Confidence - How I Found My Way into Linux.md",
     "Net blog.md"
