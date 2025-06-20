@@ -2,7 +2,7 @@
 title: From React to Resilience - How I Deployed My App on AWS Using CICD, Terraform, and WAF
 date: 2025-06-20
 draft: false
-cover: /image.jpg
+cover: /cicdstackcover.jpg
 ---
 ## Introduction: 
 Not long ago, I set out to deploy a simple React app, nothing fancy, just something I built with Tailwind and a bit of JavaScript.
