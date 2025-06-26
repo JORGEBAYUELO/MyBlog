@@ -1,5 +1,5 @@
 ---
-title: My First Project
+title: Secure and Automated CI-CD Deployment of a React App with Secrets Management on AWS
 date: 2025-06-26
 draft: false
 cover: /cloud_cover.jpg
