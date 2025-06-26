@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/From React to Resilience - How I Deployed My App on AWS Using CICD, Terraform, and WAF.md",
+                "file": "posts/Secure and Automated CI-CD Deployment of a React App with Secrets Management on AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "From React to Resilience - How I Deployed My App on AWS Using CICD, Terraform, and WAF"
+              "title": "Secure and Automated CI-CD Deployment of a React App with Secrets Management on AWS"
             }
           }
         ]
@@ -171,10 +171,12 @@
   },
   "active": "43624bbf6d4e019d",
   "lastOpenFiles": [
-    "posts/How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
     "posts/From React to Resilience - How I Deployed My App on AWS Using CICD, Terraform, and WAF.md",
-    "posts/How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
     "posts/Next-Level DevOps - Deploying My React App via CICD on AWS with Docker.md",
+    "posts/Secure and Automated CI-CD Deployment of a React App with Secrets Management on AWS.md",
+    "posts/How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
+    "new note.md",
+    "posts/How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
     "posts/From Curiosity to Confidence - How I Found My Way into Linux.md",
     "Net blog.md"
   ]
