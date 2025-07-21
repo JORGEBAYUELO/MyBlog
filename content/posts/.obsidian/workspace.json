@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
+                "file": "Building My First Pi-hole-Powered Home Network Monitor with Grafana and Prometheus on a Raspberry Pi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How I Built a Fully Automated AWS Infrastructure Using Terraform"
+              "title": "Building My First Pi-hole-Powered Home Network Monitor with Grafana and Prometheus on a Raspberry Pi"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c19ec69e0194355",
@@ -171,9 +172,10 @@
   },
   "active": "dab2ed241e818bfd",
   "lastOpenFiles": [
+    "url.md",
     "Building My First Pi-hole-Powered Home Network Monitor with Grafana and Prometheus on a Raspberry Pi.md",
-    "From Curiosity to Confidence - How I Found My Way into Linux.md",
     "How I Built a Fully Automated AWS Infrastructure Using Terraform.md",
+    "From Curiosity to Confidence - How I Found My Way into Linux.md",
     "Next-Level DevOps - Deploying My React App via CICD on AWS with Docker.md",
     "How I Built My Automated Dev Blog with Obsidian, Hugo, and GitHub Pages.md",
     "testimage.png",

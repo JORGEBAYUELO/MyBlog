@@ -58,9 +58,11 @@ Once everything was up and running, here’s what I achieved:
 
 ## A Visual Glimpse: Raspberry Pi in the Making
 
-![Raspberry Pi building](url)
+![Raspberry Pi building](../../static/image-01.JPG)
 
-![Raspberry Pi building](url)
+![Raspberry Pi building](./static/image-02.JPG)
+
+![Raspberry Pi 5](./static/image-03.JPG)
 
 These photos remind me of the joy and satisfaction that came from building something both physical and digital. This is what DevOps is all about: bridging gaps and making things work, end to end.
 
