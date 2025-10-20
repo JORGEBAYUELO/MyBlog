@@ -101,10 +101,10 @@ This project was designed to simulate a **real-world DevOps workflow**, from inf
 It demonstrates the power of combining **Terraform**, **EKS**, **ECR**, **Helm**, **ArgoCD**, **Prometheus**, **Grafana**, and **Vault** into a unified DevOps ecosystem.
 
 The end result:
-[x] A fully automated pipeline from **GitHub to AWS EKS**
-[x] Real-time monitoring and metrics visualization
-[x] Secure secret management with Vault
-[x] Zero manual deployment intervention
+- [x] A fully automated pipeline from **GitHub to AWS EKS**
+- [x] Real-time monitoring and metrics visualization
+- [x] Secure secret management with Vault
+- [x] Zero manual deployment intervention
 
 ## Final Thoughts
 
